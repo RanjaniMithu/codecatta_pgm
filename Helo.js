@@ -1,7 +1,7 @@
 <html>
   <body>
 <script>
-document.write("Hello");
+document.write("Hai World");
 </script>
 </body>
 </html>
